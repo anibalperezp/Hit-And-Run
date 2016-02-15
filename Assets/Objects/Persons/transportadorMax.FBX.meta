@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: cf794e4cbdb813044869704a58008560
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BocaU
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone007
+    100012: Bone011
+    100014: Bone016
+    100016: Bone021
+    100018: Bone022
+    100020: Bone023
+    100022: Bone033
+    100024: Bone034
+    100026: Bone041
+    100028: Bone042
+    100030: Bone043
+    100032: Bone044
+    100034: Bone045
+    100036: Bone054
+    100038: Bone059
+    100040: Bone060
+    100042: Bone061
+    100044: Bone071
+    100046: Bone072
+    100048: Bone074
+    100050: Bone075
+    100052: Bone076
+    100054: Bone077
+    100056: Bone078
+    100058: Bone079
+    100060: Bone080
+    100062: Bone081
+    100064: Bone082
+    100066: Bone083
+    100068: Bone084
+    100070: Box001
+    100072: Box002
+    100074: Box003
+    100076: CaraSquash
+    100078: CaraStrech
+    100080: CejaDerAbajo
+    100082: CejaDerArriba
+    100084: CejaIzqAbajo
+    100086: CejaIzqArriba
+    100088: Circle001
+    100090: Circle004
+    100092: Circle005
+    100094: Circle006
+    100096: Circle007
+    100098: Circle008
+    100100: Circle011
+    100102: Circle013
+    100104: Circle016
+    100106: Circle017
+    100108: Circle018
+    100110: Circle019
+    100112: Circle020
+    100114: Circle021
+    100116: Direct001
+    100118: Direct001.Target
+    100120: Direct002
+    100122: Direct002.Target
+    100124: fondo la boca
+    100126: IK Chain003
+    100128: IK Chain005
+    100130: IK Chain006
+    100132: IK Chain007
+    100134: IK Chain009
+    100136: IK Chain010
+    100138: LabioArriba
+    100140: Messi
+    100142: Messi003
+    100144: OjosGrandes
+    100146: Point005
+    100148: Point007
+    100150: Point008
+    100152: Point009
+    100154: Rectangle001
+    100156: Rectangle002
+    100158: Rectangle003
+    100160: Rectangle005
+    100162: Rectangle006
+    100164: Rectangle007
+    100166: Rectangle008
+    100168: Rectangle009
+    100170: Rectangle010
+    100172: Rectangle011
+    100174: Rectangle012
+    100176: Rectangle013
+    100178: Rectangle014
+    100180: Rectangle015
+    100182: Rectangle016
+    100184: Rectangle017
+    100186: Rectangle018
+    100188: Rectangle019
+    100190: Rectangle020
+    100192: Rectangle021
+    100194: Rectangle022
+    100196: Rectangle023
+    100198: Rectangle024
+    100200: Rectangle025
+    100202: Sphere001
+    100204: Sphere002
+    100206: Text001
+    100208: Text002
+    100210: Text003
+    100212: Text004
+    100214: Text005
+    100216: Text006
+    100218: Text007
+    100220: Text008
+    100222: Text009
+    100224: Text010
+    100226: //RootNode
+    400000: BocaU
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone007
+    400012: Bone011
+    400014: Bone016
+    400016: Bone021
+    400018: Bone022
+    400020: Bone023
+    400022: Bone033
+    400024: Bone034
+    400026: Bone041
+    400028: Bone042
+    400030: Bone043
+    400032: Bone044
+    400034: Bone045
+    400036: Bone054
+    400038: Bone059
+    400040: Bone060
+    400042: Bone061
+    400044: Bone071
+    400046: Bone072
+    400048: Bone074
+    400050: Bone075
+    400052: Bone076
+    400054: Bone077
+    400056: Bone078
+    400058: Bone079
+    400060: Bone080
+    400062: Bone081
+    400064: Bone082
+    400066: Bone083
+    400068: Bone084
+    400070: Box001
+    400072: Box002
+    400074: Box003
+    400076: CaraSquash
+    400078: CaraStrech
+    400080: CejaDerAbajo
+    400082: CejaDerArriba
+    400084: CejaIzqAbajo
+    400086: CejaIzqArriba
+    400088: Circle001
+    400090: Circle004
+    400092: Circle005
+    400094: Circle006
+    400096: Circle007
+    400098: Circle008
+    400100: Circle011
+    400102: Circle013
+    400104: Circle016
+    400106: Circle017
+    400108: Circle018
+    400110: Circle019
+    400112: Circle020
+    400114: Circle021
+    400116: Direct001
+    400118: Direct001.Target
+    400120: Direct002
+    400122: Direct002.Target
+    400124: fondo la boca
+    400126: IK Chain003
+    400128: IK Chain005
+    400130: IK Chain006
+    400132: IK Chain007
+    400134: IK Chain009
+    400136: IK Chain010
+    400138: LabioArriba
+    400140: Messi
+    400142: Messi003
+    400144: OjosGrandes
+    400146: Point005
+    400148: Point007
+    400150: Point008
+    400152: Point009
+    400154: Rectangle001
+    400156: Rectangle002
+    400158: Rectangle003
+    400160: Rectangle005
+    400162: Rectangle006
+    400164: Rectangle007
+    400166: Rectangle008
+    400168: Rectangle009
+    400170: Rectangle010
+    400172: Rectangle011
+    400174: Rectangle012
+    400176: Rectangle013
+    400178: Rectangle014
+    400180: Rectangle015
+    400182: Rectangle016
+    400184: Rectangle017
+    400186: Rectangle018
+    400188: Rectangle019
+    400190: Rectangle020
+    400192: Rectangle021
+    400194: Rectangle022
+    400196: Rectangle023
+    400198: Rectangle024
+    400200: Rectangle025
+    400202: Sphere001
+    400204: Sphere002
+    400206: Text001
+    400208: Text002
+    400210: Text003
+    400212: Text004
+    400214: Text005
+    400216: Text006
+    400218: Text007
+    400220: Text008
+    400222: Text009
+    400224: Text010
+    400226: //RootNode
+    2300000: BocaU
+    2300002: Box001
+    2300004: Box002
+    2300006: Box003
+    2300008: CaraSquash
+    2300010: CaraStrech
+    2300012: CejaDerAbajo
+    2300014: CejaDerArriba
+    2300016: CejaIzqAbajo
+    2300018: CejaIzqArriba
+    2300020: Circle008
+    2300022: Circle011
+    2300024: Circle013
+    2300026: Circle021
+    2300028: fondo la boca
+    2300030: LabioArriba
+    2300032: Messi
+    2300034: Messi003
+    2300036: OjosGrandes
+    2300038: Sphere001
+    2300040: Sphere002
+    2300042: //RootNode
+    3300000: BocaU
+    3300002: Box001
+    3300004: Box002
+    3300006: Box003
+    3300008: CaraSquash
+    3300010: CaraStrech
+    3300012: CejaDerAbajo
+    3300014: CejaDerArriba
+    3300016: CejaIzqAbajo
+    3300018: CejaIzqArriba
+    3300020: Circle008
+    3300022: Circle011
+    3300024: Circle013
+    3300026: Circle021
+    3300028: fondo la boca
+    3300030: LabioArriba
+    3300032: Messi
+    3300034: Messi003
+    3300036: OjosGrandes
+    3300038: Sphere001
+    3300040: Sphere002
+    3300042: //RootNode
+    4300000: Messi
+    4300002: Messi003
+    4300004: CejaDerArriba
+    4300006: CejaIzqArriba
+    4300008: CaraStrech
+    4300010: CaraSquash
+    4300012: OjosGrandes
+    4300014: BocaU
+    4300016: CejaDerAbajo
+    4300018: LabioArriba
+    4300020: CejaIzqAbajo
+    4300022: Box001
+    4300024: Circle021
+    4300026: Circle008
+    4300028: Circle011
+    4300030: Sphere002
+    4300032: Sphere001
+    4300034: Circle013
+    4300036: fondo la boca
+    4300038: Box002
+    4300040: Box003
+    7400000: 2_a_3
+    7400002: 3_a_2
+    7400004: 2_a_1
+    7400006: 1_a_2
+    7400008: 2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 2_a_3
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3_a_2
+      takeName: Take 001
+      firstFrame: 14
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2_a_1
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 1_a_2
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 56.0000038
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

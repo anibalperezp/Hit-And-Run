@@ -1,0 +1,3587 @@
+fileFormatVersion: 2
+guid: 175a41e1ebe9bee4eb1baafed5b8b282
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bone005
+    100002: Bone006
+    100004: Bone017
+    100006: Bone018
+    100008: Bone019
+    100010: Bone021
+    100012: Bone022
+    100014: Bone023
+    100016: Bone025
+    100018: Bone026
+    100020: Bone027
+    100022: Bone029
+    100024: Bone030
+    100026: Bone031
+    100028: Bone033
+    100030: Bone034
+    100032: Bone036
+    100034: Bone079
+    100036: Bone083
+    100038: Bone084
+    100040: Bone085
+    100042: Bone086
+    100044: Bone087
+    100046: Bone088
+    100048: Bone089
+    100050: Bone091
+    100052: Bone092
+    100054: Bone093
+    100056: Bone094
+    100058: Bone095
+    100060: Bone096
+    100062: Bone097
+    100064: Bone098
+    100066: Bone099
+    100068: Bone100
+    100070: Bone101
+    100072: Bone102
+    100074: Bone104
+    100076: Bone106
+    100078: Bone109
+    100080: Bone109(mirrored)
+    100082: Circle001
+    100084: Circle004
+    100086: Circle005
+    100088: Circle006
+    100090: Circle020
+    100092: Circle021
+    100094: Circle022
+    100096: Circle023
+    100098: Circle024
+    100100: Circle025
+    100102: Circle026
+    100104: Circle028
+    100106: Circle029
+    100108: Circle030
+    100110: Circle031
+    100112: Circle032
+    100114: Circle033
+    100116: Circle034
+    100118: Circle035
+    100120: Circle036
+    100122: Circle037
+    100124: Circle038
+    100126: Circle039
+    100128: Circle041
+    100130: Circle042
+    100132: Circle043
+    100134: Circle044
+    100136: Circle045
+    100138: Circle046
+    100140: Circle047
+    100142: Circle048
+    100144: Circle049
+    100146: Circle050
+    100148: Circle051
+    100150: Circle052
+    100152: Circle053
+    100154: Circle054
+    100156: CRIS_HEAD
+    100158: CRIS_NECK
+    100160: CRIS_R_CALF
+    100162: CRIS_R_CLAVICLE
+    100164: CRIS_R_FORE ARM
+    100166: CRIS_R_HAND
+    100168: CRIS_R_THIGH
+    100170: CRIS_R_UPPER ARM
+    100172: CRIS_SPINE
+    100174: CRIS_SPINE_1
+    100176: CRIS_SPINE_2
+    100178: cristiano_con morfer
+    100180: //RootNode
+    100182: dedo der
+    100184: dedo izq
+    100186: der_forearm
+    100188: Dummy001
+    100190: Dummy002
+    100192: Head
+    100194: IK Chain006
+    100196: IK Chain007
+    100198: IK Chain008
+    100200: IK Chain009
+    100202: izq_fore arme
+    100204: L_C
+    100206: L_F
+    100208: L_H
+    100210: mandy
+    100212: no
+    100214: pie der
+    100216: pie izq
+    100218: Point003
+    100220: Point005
+    100222: Point008
+    100224: Point009
+    100226: Point010
+    100228: Point011
+    100230: Point012
+    100232: Point013
+    100234: Point014
+    100236: Point015
+    100238: Point016
+    100240: Point017
+    100242: Point018
+    100244: Point019
+    100246: Point020
+    100248: R_C
+    100250: R_F
+    100252: R_H
+    400000: Bone005
+    400002: Bone006
+    400004: Bone017
+    400006: Bone018
+    400008: Bone019
+    400010: Bone021
+    400012: Bone022
+    400014: Bone023
+    400016: Bone025
+    400018: Bone026
+    400020: Bone027
+    400022: Bone029
+    400024: Bone030
+    400026: Bone031
+    400028: Bone033
+    400030: Bone034
+    400032: Bone036
+    400034: Bone079
+    400036: Bone083
+    400038: Bone084
+    400040: Bone085
+    400042: Bone086
+    400044: Bone087
+    400046: Bone088
+    400048: Bone089
+    400050: Bone091
+    400052: Bone092
+    400054: Bone093
+    400056: Bone094
+    400058: Bone095
+    400060: Bone096
+    400062: Bone097
+    400064: Bone098
+    400066: Bone099
+    400068: Bone100
+    400070: Bone101
+    400072: Bone102
+    400074: Bone104
+    400076: Bone106
+    400078: Bone109
+    400080: Bone109(mirrored)
+    400082: Circle001
+    400084: Circle004
+    400086: Circle005
+    400088: Circle006
+    400090: Circle020
+    400092: Circle021
+    400094: Circle022
+    400096: Circle023
+    400098: Circle024
+    400100: Circle025
+    400102: Circle026
+    400104: Circle028
+    400106: Circle029
+    400108: Circle030
+    400110: Circle031
+    400112: Circle032
+    400114: Circle033
+    400116: Circle034
+    400118: Circle035
+    400120: Circle036
+    400122: Circle037
+    400124: Circle038
+    400126: Circle039
+    400128: Circle041
+    400130: Circle042
+    400132: Circle043
+    400134: Circle044
+    400136: Circle045
+    400138: Circle046
+    400140: Circle047
+    400142: Circle048
+    400144: Circle049
+    400146: Circle050
+    400148: Circle051
+    400150: Circle052
+    400152: Circle053
+    400154: Circle054
+    400156: CRIS_HEAD
+    400158: CRIS_NECK
+    400160: CRIS_R_CALF
+    400162: CRIS_R_CLAVICLE
+    400164: CRIS_R_FORE ARM
+    400166: CRIS_R_HAND
+    400168: CRIS_R_THIGH
+    400170: CRIS_R_UPPER ARM
+    400172: CRIS_SPINE
+    400174: CRIS_SPINE_1
+    400176: CRIS_SPINE_2
+    400178: cristiano_con morfer
+    400180: //RootNode
+    400182: dedo der
+    400184: dedo izq
+    400186: der_forearm
+    400188: Dummy001
+    400190: Dummy002
+    400192: Head
+    400194: IK Chain006
+    400196: IK Chain007
+    400198: IK Chain008
+    400200: IK Chain009
+    400202: izq_fore arme
+    400204: L_C
+    400206: L_F
+    400208: L_H
+    400210: mandy
+    400212: no
+    400214: pie der
+    400216: pie izq
+    400218: Point003
+    400220: Point005
+    400222: Point008
+    400224: Point009
+    400226: Point010
+    400228: Point011
+    400230: Point012
+    400232: Point013
+    400234: Point014
+    400236: Point015
+    400238: Point016
+    400240: Point017
+    400242: Point018
+    400244: Point019
+    400246: Point020
+    400248: R_C
+    400250: R_F
+    400252: R_H
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: cristiano_con morfer
+    7400000: cr7_golpeCara
+    7400002: cr7_golpeEstomago
+    7400004: cr7_golpePiernas
+    7400006: cr7_golpeCaraDer
+    7400008: cr7_golpeCaraIzq
+    7400010: cr7_golpeHombroDer
+    7400012: cr7_golpeHombroIzq
+    7400014: cr7_caidaAtras
+    7400016: cr7_entradaPorIzq
+    7400018: cr7_Idle
+    7400020: cr7_entradaPorDer
+    7400022: cr7_golpeGenitales
+    7400024: cr7_patadaBalon
+    7400026: cr7_electrocutado
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: cristiano_con morfer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cr7_golpeCara
+      takeName: Take 001
+      firstFrame: 716
+      lastFrame: 733
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_golpeEstomago
+      takeName: Take 001
+      firstFrame: 1148
+      lastFrame: 1168
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_golpePiernas
+      takeName: Take 001
+      firstFrame: 570
+      lastFrame: 588
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_golpeCaraIzq
+      takeName: Take 001
+      firstFrame: 354
+      lastFrame: 381
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_golpeCaraDer
+      takeName: Take 001
+      firstFrame: 450
+      lastFrame: 477
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_golpeHombroDer
+      takeName: Take 001
+      firstFrame: 972
+      lastFrame: 996
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_golpeHombroIzq
+      takeName: Take 001
+      firstFrame: 1059
+      lastFrame: 1083
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_caidaAtras
+      takeName: Take 001
+      firstFrame: 1088
+      lastFrame: 1113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Circle004
+        weight: 1
+      - path: Circle001/Circle005
+        weight: 1
+      - path: Circle001/Circle006
+        weight: 1
+      - path: Circle001/Circle021
+        weight: 1
+      - path: Circle001/Circle022
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/Point003
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Point008
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Point009
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle023
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Circle024
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Circle020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/Point020
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/Point005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/L_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/R_C
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/Point019
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Point018
+        weight: 1
+      - path: Circle001/Head
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/L_H/Bone091/IK Chain009
+        weight: 1
+      - path: Circle001/L_H/Circle041
+        weight: 1
+      - path: Circle001/L_H/Circle041/Circle042
+        weight: 1
+      - path: Circle001/L_H/Circle043
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044
+        weight: 1
+      - path: Circle001/L_H/Circle043/Circle044/Circle045
+        weight: 1
+      - path: Circle001/L_H/Circle048
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047
+        weight: 1
+      - path: Circle001/L_H/Circle048/Circle047/Circle046
+        weight: 1
+      - path: Circle001/L_H/Circle049
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051
+        weight: 1
+      - path: Circle001/L_H/Circle049/Circle051/Circle053
+        weight: 1
+      - path: Circle001/L_H/Circle054
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050
+        weight: 1
+      - path: Circle001/L_H/Circle054/Circle050/Circle052
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/Circle025
+        weight: 1
+      - path: Circle001/R_H/Circle025/Circle026
+        weight: 1
+      - path: Circle001/R_H/Circle028
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029
+        weight: 1
+      - path: Circle001/R_H/Circle028/Circle029/Circle030
+        weight: 1
+      - path: Circle001/R_H/Circle031
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032
+        weight: 1
+      - path: Circle001/R_H/Circle031/Circle032/Circle033
+        weight: 1
+      - path: Circle001/R_H/Circle036
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035
+        weight: 1
+      - path: Circle001/R_H/Circle036/Circle035/Circle034
+        weight: 1
+      - path: Circle001/R_H/Circle037
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038
+        weight: 1
+      - path: Circle001/R_H/Circle037/Circle038/Circle039
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/IK Chain008
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Dummy001
+        weight: 1
+      - path: L_F
+        weight: 1
+      - path: L_F/Point017
+        weight: 1
+      - path: L_F/Point017/Point015
+        weight: 1
+      - path: L_F/Point017/Point015/Point016
+        weight: 1
+      - path: L_F/Point017/Point015/Point016/IK Chain007
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      - path: R_F
+        weight: 1
+      - path: R_F/Point014
+        weight: 1
+      - path: R_F/Point014/Point012
+        weight: 1
+      - path: R_F/Point014/Point012/Point013
+        weight: 1
+      - path: R_F/Point014/Point012/Point013/IK Chain006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_entradaPorIzq
+      takeName: Take 001
+      firstFrame: 827
+      lastFrame: 852
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_Idle
+      takeName: Take 001
+      firstFrame: 225
+      lastFrame: 243
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_entradaPorDer
+      takeName: Take 001
+      firstFrame: 854
+      lastFrame: 878
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_golpeGenitales
+      takeName: Take 001
+      firstFrame: 545
+      lastFrame: 565
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_patadaBalon
+      takeName: Take 001
+      firstFrame: 518
+      lastFrame: 544
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cr7_electrocutado
+      takeName: Take 001
+      firstFrame: 386
+      lastFrame: 411
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/CRIS_SPINE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone006/CRIS_R_THIGH/CRIS_R_CALF/Bone036
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079
+        weight: 1
+      - path: Circle001/CRIS_SPINE/Bone085/Bone084/Bone079/Bone083
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/Bone086/Bone087/Bone088/izq_fore
+          arme
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/Bone005
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_NECK/CRIS_HEAD/mandy/no
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM
+        weight: 1
+      - path: Circle001/CRIS_SPINE/CRIS_SPINE_1/CRIS_SPINE_2/CRIS_R_CLAVICLE/CRIS_R_UPPER
+          ARM/CRIS_R_FORE ARM/der_forearm
+        weight: 1
+      - path: Circle001/L_H
+        weight: 1
+      - path: Circle001/L_H/Bone091
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone089/Bone104
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099
+        weight: 1
+      - path: Circle001/L_H/Bone091/Bone106/Bone099/Bone095
+        weight: 1
+      - path: Circle001/R_H
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033
+        weight: 1
+      - path: Circle001/R_H/CRIS_R_HAND/Bone033/Bone034
+        weight: 1
+      - path: cristiano_con morfer
+        weight: 1
+      - path: Point010
+        weight: 1
+      - path: Point010/pie izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq
+        weight: 1
+      - path: Point010/pie izq/dedo izq/Bone109
+        weight: 1
+      - path: Point011
+        weight: 1
+      - path: Point011/pie der
+        weight: 1
+      - path: Point011/pie der/dedo der
+        weight: 1
+      - path: Point011/pie der/dedo der/Bone109(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

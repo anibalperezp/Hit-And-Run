@@ -1,0 +1,1398 @@
+fileFormatVersion: 2
+guid: 1ee62cd8a0368c64f86fd8159ced302a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone007
+    100010: Bone011
+    100012: Bone016
+    100014: Bone021
+    100016: Bone022
+    100018: Bone023
+    100020: Bone033
+    100022: Bone034
+    100024: Bone041
+    100026: Bone042
+    100028: Bone043
+    100030: Bone044
+    100032: Bone045
+    100034: Bone054
+    100036: Bone059
+    100038: Bone060
+    100040: Bone061
+    100042: Bone071
+    100044: Bone072
+    100046: Bone074
+    100048: Bone075
+    100050: Bone076
+    100052: Bone077
+    100054: Bone078
+    100056: Bone079
+    100058: Bone080
+    100060: Bone081
+    100062: Bone082
+    100064: Bone083
+    100066: Bone084
+    100068: Circle001
+    100070: Circle011
+    100072: Circle013
+    100074: Messi
+    100076: //RootNode
+    100078: Point008
+    100080: Point009
+    100082: Sphere001
+    100084: Sphere002
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone007
+    400010: Bone011
+    400012: Bone016
+    400014: Bone021
+    400016: Bone022
+    400018: Bone023
+    400020: Bone033
+    400022: Bone034
+    400024: Bone041
+    400026: Bone042
+    400028: Bone043
+    400030: Bone044
+    400032: Bone045
+    400034: Bone054
+    400036: Bone059
+    400038: Bone060
+    400040: Bone061
+    400042: Bone071
+    400044: Bone072
+    400046: Bone074
+    400048: Bone075
+    400050: Bone076
+    400052: Bone077
+    400054: Bone078
+    400056: Bone079
+    400058: Bone080
+    400060: Bone081
+    400062: Bone082
+    400064: Bone083
+    400066: Bone084
+    400068: Circle001
+    400070: Circle011
+    400072: Circle013
+    400074: Messi
+    400076: //RootNode
+    400078: Point008
+    400080: Point009
+    400082: Sphere001
+    400084: Sphere002
+    2300000: Sphere001
+    2300002: Sphere002
+    2300004: Messi
+    3300000: Sphere001
+    3300002: Sphere002
+    3300004: Messi
+    4300000: Sphere002
+    4300002: Sphere001
+    4300004: Messi
+    7400000: idle_Messi
+    7400002: saltoEntrada1_Messi
+    7400004: saltoEntrada2_Messi
+    7400006: golpeCara_Messi
+    7400008: golpeTronco_Messi
+    7400010: golpePiernas_Messi
+    7400012: caidaAtras_Messi
+    7400014: galletaDerecha_Messi
+    7400016: galletaIzquierda_Messi
+    7400018: patadaBalon_Messi
+    7400020: electrocutado_Messi
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Messi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_Messi
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: saltoEntrada1_Messi
+      takeName: Take 001
+      firstFrame: 114
+      lastFrame: 138
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: saltoEntrada2_Messi
+      takeName: Take 001
+      firstFrame: 159
+      lastFrame: 183
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: golpeCara_Messi
+      takeName: Take 001
+      firstFrame: 205
+      lastFrame: 222
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: golpeTronco_Messi
+      takeName: Take 001
+      firstFrame: 224
+      lastFrame: 244
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: golpePiernas_Messi
+      takeName: Take 001
+      firstFrame: 258
+      lastFrame: 279
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: caidaAtras_Messi
+      takeName: Take 001
+      firstFrame: 293
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: galletaDerecha_Messi
+      takeName: Take 001
+      firstFrame: 340
+      lastFrame: 356
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: galletaIzquierda_Messi
+      takeName: Take 001
+      firstFrame: 322
+      lastFrame: 338
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: patadaBalon_Messi
+      takeName: Take 001
+      firstFrame: 378
+      lastFrame: 399
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: electrocutado_Messi
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 377
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Bone001
+        weight: 1
+      - path: Circle001/Bone001/Bone002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Bone078
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point008/Sphere001
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone004/Bone011/Point009/Sphere002
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076
+        weight: 1
+      - path: Circle001/Bone001/Bone002/Bone003/Bone077/Bone075/Bone076/Bone074
+        weight: 1
+      - path: Circle001/Bone001/Bone041
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079
+        weight: 1
+      - path: Circle001/Bone001/Bone041/Bone007/Bone079/Bone080
+        weight: 1
+      - path: Circle001/Bone001/Bone081
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Circle001/Bone001/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Circle001/Circle011
+        weight: 1
+      - path: Circle001/Circle011/Bone016
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone021/Bone022/Bone023
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033
+        weight: 1
+      - path: Circle001/Circle011/Bone016/Bone033/Bone034
+        weight: 1
+      - path: Circle001/Circle013
+        weight: 1
+      - path: Circle001/Circle013/Bone054
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071
+        weight: 1
+      - path: Circle001/Circle013/Bone054/Bone071/Bone072
+        weight: 1
+      - path: Messi
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
